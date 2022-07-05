@@ -7,7 +7,7 @@ participation. For the same reason we can only act retroactive on changes of
 AWS services. Otherwise it would be a fulltime job to keep up with AWS.
 
 
-## How Can I Contribute?
+## How Can I Contribute? ##heading
 
 ### Some Resource Is Not Supported by *aws-nuke*
 
